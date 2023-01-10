@@ -1,4 +1,4 @@
-https://github.com/SmagulLK/SmagulLK/blob/main/header.png
+![header](https://user-images.githubusercontent.com/74141795/211553784-dd610314-07e8-4248-9657-ff9c920c88c7.png)
 <!--
 **SmagulLK/SmagulLK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
